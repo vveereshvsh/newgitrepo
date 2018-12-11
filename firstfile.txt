@@ -1,1 +1,2 @@
-This file contains dummy data
+This file contains dummy information
+Second line added
